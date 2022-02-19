@@ -6,7 +6,7 @@ As user scrolls near the bottom of page, a network request is made to fetch more
 It also tracks if all images are loaded, to dynamically show and hide loading animation. 
 
 # Demo 
-Live version [here](bolattt.github.io/infinite-scroll/)
+Live version [here](https://bolattt.github.io/infinite-scroll/)
 
 # Sources used
 - [Unsplash api](https://unsplash.com/documentation)
